@@ -9,11 +9,11 @@ I am an aspiring software engineer student with over 8 years of I.T. technician 
 
 - :books: I’m currently learning ***Frameworks, Algorithms and Data Structures, and Human Resources***
 
-- :file_folder: All of my projects are available here:<br />[https://github.com/villamorjin](https://github.com/villamorjin)
+- :file_folder: All of my projects are available here: [https://github.com/villamorjin](https://github.com/villamorjin)
 
 - :speech_balloon: Send me a message at ***villamorjin@gmail.com***
 
-- :clipboard: Get to know me a litte bit more:<br />[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
+- :clipboard: Get to know me a litte bit more: [https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
