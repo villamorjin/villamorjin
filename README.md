@@ -10,7 +10,6 @@ I am an aspiring software engineer with over 8 years of I.T. technician experien
 <br />
 <!-- <h3 align="center">I'm a passionate software engineer with</h3> -->
 <!-- <img align="right" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"> -->
-
 - :computer: I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
 - :books: I’m currently learning ***Frameworks, Algorithms and Data Structures, and Human Resources***
