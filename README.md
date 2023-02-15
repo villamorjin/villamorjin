@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available here:<br />[https://github.com/villamorjin](https://github.com/villamorjin)
 
-- 📫 Send me a message at **villamorjin@gmail.com**
+- 📫 Send me a message at ***villamorjin@gmail.com***
 
 - 📄 Get to know me a litte bit more:<br />[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
 
-- ⚡ Fun fact **I love listening to JRE podcast**
+- ⚡ Fun fact ***I love listening to JRE podcast***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
