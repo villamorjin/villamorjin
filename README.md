@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefren Villamor</h1>
 <h3 align="center">I'm a passionate software engineer with</h3>
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY2M2RmZGRlYTUyOGNmYTUyZWMzZDY4ZjM5NmY3MjRkNDMwMmVhMSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 - 🔭 I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
