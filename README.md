@@ -1,14 +1,14 @@
 <!-- [![MasterHead](https://i.imgur.com/LVKvjL6.gif)](https://rishavchanda.io) -->
-
+<p>
 <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;">Hi, I'm Jefren :wave: :boy:</h1></summary>
   </ul>
+</div>
 
-<p>
 I am an aspiring software engineer with over 8 years of I.T. technician experience in an enterprise environment. And 2 years in enhancing employee relationships and developing positive workplace culture as an H.R. professional.  My goal is to become a software engineer that specializes in developing robust Human Resource Information Systems and Payroll Software Services to help a variety of organizations in different business models connect and manage their teams' needs efficiently.
 </p>
-  </div>
+  
 <br />
 
 <!-- <h3 align="center">I'm a passionate software engineer with</h3> -->
