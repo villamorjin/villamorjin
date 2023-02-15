@@ -1,6 +1,5 @@
 <!-- [![MasterHead](https://i.imgur.com/LVKvjL6.gif)](https://rishavchanda.io) -->
 
-
 <h1 style="display: inline-block;"> Hi, I'm Jefren Villamor </h1>
 
 <p>
