@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefren Villamor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=villamorjin&label=Profile%20views&color=0e75b6&style=flat" alt="villamorjin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=villamorjin" alt="villamorjin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/villamorjin" target="blank"><img src="https://img.shields.io/twitter/follow/villamorjin?logo=twitter&style=for-the-badge" alt="villamorjin" /></a> </p>
-
 - 🔭 I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
 - 🌱 I’m currently learning **Frameworks, Algorithms and Data Structures**
