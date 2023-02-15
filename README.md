@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **villamorjin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
+- 📄 Get to know me a litte bit more:
+[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
 
 - ⚡ Fun fact **I love listening to JRE podcast**
 
