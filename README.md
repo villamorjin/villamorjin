@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeff!</h1>
+<h1 align="center">Hi, I'm Jef!</h1>
 <!-- <h3 align="center">I'm a passionate software engineer with</h3> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
@@ -10,11 +10,9 @@
 
 - 🤝 I’m looking for help with [To-do List App](https://github.com/villamorjin/to-do-list)
 
-- 👨‍💻 All of my projects are available at [https://github.com/villamorjin](https://github.com/villamorjin)
+- 👨‍💻 All of my projects are available here:<br />[https://github.com/villamorjin](https://github.com/villamorjin)
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **villamorjin@gmail.com**
+- 📫 Send me a message at **villamorjin@gmail.com**
 
 - 📄 Get to know me a litte bit more:<br />[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
 
