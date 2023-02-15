@@ -6,17 +6,11 @@
 
 - :books: I’m currently learning ***Frameworks, Algorithms and Data Structures, and Human Resources***
 
-- 👯 I’m looking to collaborate on [SEC-Worksheets](https://villamorjin.github.io/SEC-worksheets/)
+- :file_folder: All of my projects are available here:<br />[https://github.com/villamorjin](https://github.com/villamorjin)
 
-- 🤝 I’m looking for help with [To-do List App](https://github.com/villamorjin/to-do-list)
+- :speech_balloon: Send me a message at ***villamorjin@gmail.com***
 
-- 👨‍💻 All of my projects are available here:<br />[https://github.com/villamorjin](https://github.com/villamorjin)
-
-- 📫 Send me a message at ***villamorjin@gmail.com***
-
-- 📄 Get to know me a litte bit more:<br />[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
-
-- ⚡ Fun fact ***I love listening to JRE podcast***
+- :clipboard: Get to know me a litte bit more:<br />[https://www.linkedin.com/in/jefren-villamor-186354aa/](https://www.linkedin.com/in/jefren-villamor-186354aa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
