@@ -7,9 +7,9 @@
 <p>
 I am an aspiring software engineer with over 8 years of I.T. technician experience in an enterprise environment. And 2 years in enhancing employee relationships and developing positive workplace culture as an H.R. professional.  My goal is to become a software engineer that specializes in developing robust Human Resource Information Systems and Payroll Software Services to help a variety of organizations in different business models connect and manage their teams' needs efficiently.
 </p>
-<br />
 <!-- <h3 align="center">I'm a passionate software engineer with</h3> -->
 <!-- <img align="right" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"> -->
+
 - :computer: I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
 - :books: I’m currently learning ***Frameworks, Algorithms and Data Structures, and Human Resources***
