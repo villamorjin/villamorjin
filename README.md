@@ -2,9 +2,9 @@
 <h3 align="center">I'm a passionate software engineer with</h3> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-- 🔭 I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
+- :computer: I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
-- 🌱 I’m currently learning **Frameworks, Algorithms and Data Structures, and Human Resources**
+- :books: I’m currently learning <b>**Frameworks, Algorithms and Data Structures, and Human Resources**</b>
 
 - 👯 I’m looking to collaborate on [SEC-Worksheets](https://villamorjin.github.io/SEC-worksheets/)
 
