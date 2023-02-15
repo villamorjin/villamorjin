@@ -4,7 +4,7 @@
 
 - :computer: I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
-- :books: I’m currently learning <b>**Frameworks, Algorithms and Data Structures, and Human Resources**</b>
+- :books: I’m currently learning <u>**Frameworks, Algorithms and Data Structures, and Human Resources**</u>
 
 - 👯 I’m looking to collaborate on [SEC-Worksheets](https://villamorjin.github.io/SEC-worksheets/)
 
