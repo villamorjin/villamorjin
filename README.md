@@ -12,7 +12,7 @@ I am an aspiring software engineer with over 8 years of I.T. technician experien
 
 - :computer: I’m currently working on [Gwent - Witcher Card Memory Game](https://villamorjin.github.io/gwent-memory-game/)
 
-- :books: I’m currently learning ***Frameworks, Algorithms and Data Structures, and Human Resources***
+- :books: I’m learning about ***Frameworks, Algorithms and Data Structures, and Human Resources***
 
 - :file_folder: All of my projects are available here: [https://github.com/villamorjin](https://github.com/villamorjin)
 
